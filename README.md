@@ -6,7 +6,7 @@ Two small demos that check, on examples with known answers, the Koopman operator
 
 ## Related articles (Japanese)
 
-- Qiita (for engineers who have forgotten high-school math): "数学のクープマン作用素は経営データ分析に活用できるか" (URL to be added after publication)
+- Qiita (for engineers who have forgotten high-school math): "数学のクープマン作用素は経営データ分析に活用できるか" (https://qiita.com/etale_cohomology/items/2066b6bbfed3c6311db8)
 - Zenn (for readers with advanced math background): same title (URL to be added after publication)
 
 ## Files
